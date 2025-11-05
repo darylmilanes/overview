@@ -1,0 +1,940 @@
+[
+  {
+    "id": "blue-ps42",
+    "category": "emotions",
+    "title": "When You Are Blue",
+    "tags": ["sad", "blue", "downcast", "heavy"],
+    "scripture": [
+      "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance. (Psalm 42:5, KJV)"
+    ],
+    "context": "The psalmist is speaking to his own troubled soul, acknowledging sadness honestly rather than hiding it. This is not a quick fix but a gentle reminder that hope still exists even when the heart feels heavy.",
+    "reflection": "Sadness does not mean faith is weak. You are allowed to feel low. God holds your hope for you until you are ready to lift it again.",
+    "prayer": "Lord, my heart is low and heavy. Please stay close to me and remind me I am not alone.",
+    "additional": ["Psalm 34:18", "Psalm 147:3", "Matthew 11:28"]
+  },
+
+  {
+    "id": "tempted-mt4",
+    "category": "spiritual",
+    "title": "When Tempted to Do Wrong",
+    "tags": ["temptation", "struggle", "weakness"],
+    "scripture": [
+      "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. (Matthew 4:1, KJV)",
+      "It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. (Matthew 4:4, KJV)"
+    ],
+    "context": "Jesus Himself faced temptation in a weary and lonely moment. Scripture shows that temptation is not a sign of failure; it is a human experience Jesus understands intimately.",
+    "reflection": "Temptation often feels strongest when we are tired or discouraged. Jesus shows that we do not face this battle alone. You are not abandoned in your struggle — God is present in the moment of decision.",
+    "prayer": "Lord, you know my weakness. Give me strength to choose what is good and true.",
+    "additional": ["1 Corinthians 10:13", "James 4:7", "Psalm 119:11"]
+  },
+
+  {
+    "id": "danger-acts27",
+    "category": "emotions",
+    "title": "When You Face Physical Danger",
+    "tags": ["fear", "danger", "threat", "protection"],
+    "scripture": [
+      "Be of good cheer: for I believe God, that it shall be even as it was told me. (Acts 27:25, KJV)"
+    ],
+    "context": "Paul and those with him were caught in a violent storm at sea, fearing for their lives. In the chaos, God reassured Paul that He was still in control. Safety was not in the calm of the storm, but in the presence of God within it.",
+    "reflection": "When life feels dangerous or uncertain, fear rises quickly. Yet God does not abandon you in the storm. His protection is not distant — it is present, steady, and near.",
+    "prayer": "Lord, I am afraid. Keep me safe. Hold me through what I cannot control.",
+    "additional": ["Psalm 91:1-4", "Psalm 27:1", "Isaiah 41:10"]
+  },
+
+  {
+    "id": "bored-ps103",
+    "category": "emotions",
+    "title": "When You Are Bored",
+    "tags": ["numb", "dull", "disconnected"],
+    "scripture": [
+      "Bless the Lord, O my soul: and forget not all his benefits. (Psalm 103:2, KJV)"
+    ],
+    "context": "David reminds his soul to remember God’s goodness. Not because he feels it in the moment, but because memory awakens the heart when emotion falls quiet.",
+    "reflection": "Boredom can be a sign of inner tiredness or disconnection. Pause. Breathe. Let your heart remember something good, even something small. Sometimes peace looks plain — and that is okay.",
+    "prayer": "Lord, my heart feels dull. Wake me gently back to gratitude and wonder.",
+    "additional": ["Psalm 103:1-5", "Psalm 16:11", "Lamentations 3:22-23"]
+  },
+
+  {
+    "id": "forgiveness-ps51",
+    "category": "spiritual",
+    "title": "When You Need Forgiveness",
+    "tags": ["sin", "guilt", "repentance", "mercy"],
+    "scripture": [
+      "Have mercy upon me, O God, according to thy lovingkindness... (Psalm 51:1, KJV)"
+    ],
+    "context": "David wrote this psalm after deep personal failure. He does not hide his sin — he brings it to God with honesty, trusting in God’s mercy rather than his own worth.",
+    "reflection": "God does not turn away from the brokenhearted or ashamed. He meets you not to condemn, but to restore. You are not beyond grace.",
+    "prayer": "Lord, I confess what I have done. Have mercy on me and restore my heart.",
+    "additional": ["1 John 1:9", "Isaiah 1:18", "Micah 7:18-19"]
+  },
+
+  {
+    "id": "nothing-ps37",
+    "category": "emotions",
+    "title": "When Nothing Seems to Be Going Right",
+    "tags": ["discouraged", "stuck", "frustrated"],
+    "scripture": [
+      "Trust in the Lord, and do good; so shalt thou dwell in the land, and verily thou shalt be fed. (Psalm 37:3, KJV)"
+    ],
+    "context": "This psalm encourages patience when life does not seem fair or manageable. God works quietly and steadily, even when change is not visible yet.",
+    "reflection": "You do not need to solve everything right now. Take one small step of faith. God is at work in ways you cannot yet see.",
+    "prayer": "Lord, I am frustrated and tired. Help me trust that You are still working.",
+    "additional": ["Romans 8:28", "Galatians 6:9", "Psalm 46:10"]
+  },
+
+  {
+    "id": "worry-ps37-need",
+    "category": "emotions",
+    "title": "When You Worry About Having Enough",
+    "tags": ["fear", "provision", "uncertainty"],
+    "scripture": [
+      "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread. (Psalm 37:25, KJV)"
+    ],
+    "context": "David reflects on a lifetime of watching God sustain those who trust Him. Provision is not always early — but it is faithful.",
+    "reflection": "Worry comes quickly when resources look small. But God has not forgotten you. He knows what you need. He has cared for you before, and He will again.",
+    "prayer": "Lord, my needs feel heavy to carry. Please provide in the way only You can.",
+    "additional": ["Matthew 6:31-34", "Philippians 4:19", "Psalm 121:1-2"]
+  },
+
+  {
+    "id": "afraid-ps27",
+    "category": "emotions",
+    "title": "When You Are Afraid",
+    "tags": ["fear", "afraid", "uncertain"],
+    "scripture": [
+      "The Lord is my light and my salvation; whom shall I fear? (Psalm 27:1, KJV)"
+    ],
+    "context": "David writes this psalm while facing threats and uncertainty. His courage does not come from the absence of fear, but from remembering who stands with him.",
+    "reflection": "Fear does not mean you lack faith. It simply means your heart is looking for safety. God does not shame you for being afraid—He meets you there and holds you steady.",
+    "prayer": "Lord, I am afraid. Be my light when I feel surrounded and unsure.",
+    "additional": ["Isaiah 41:10", "Psalm 56:3", "John 14:27"]
+  },
+
+  {
+    "id": "anxious-lovedones-ps107",
+    "category": "emotions",
+    "title": "When You Are Anxious for Those You Love",
+    "tags": ["worry", "concern", "loved ones"],
+    "scripture": [
+      "Then they cry unto the Lord in their trouble, and he saveth them out of their distresses. (Psalm 107:19, KJV)"
+    ],
+    "context": "Psalm 107 describes people in crisis who turn to God—not in strength, but in desperation—and He hears them and delivers.",
+    "reflection": "Caring deeply means you feel their pain. But you are not responsible for holding the whole world together. God carries those you love even more tenderly than you do.",
+    "prayer": "Lord, I place the ones I love into Your care. Be near to them in every need.",
+    "additional": ["Philippians 4:6", "1 Peter 5:7", "Psalm 121:7-8"]
+  },
+
+  {
+    "id": "sin-1john",
+    "category": "spiritual",
+    "title": "When You Sin",
+    "tags": ["sin", "confession", "repentance"],
+    "scripture": [
+      "If we confess our sins, he is faithful and just to forgive us our sins. (1 John 1:9, KJV)"
+    ],
+    "context": "John reminds believers that sin is real—and so is God's mercy. Confession is not about shame, but about returning to love.",
+    "reflection": "God does not ask you to fix yourself before coming to Him. He simply asks for honesty. Grace meets you in the very place of your failure.",
+    "prayer": "Lord, I confess my sin. Cleanse my heart and restore me in Your love.",
+    "additional": ["Psalm 51:10", "Isaiah 1:18", "Micah 7:19"]
+  },
+
+  {
+    "id": "restoration-lk15",
+    "category": "spiritual",
+    "title": "When You Need Restoration",
+    "tags": ["restoration", "return", "prodigal"],
+    "scripture": [
+      "For this my son was dead, and is alive again; he was lost, and is found. (Luke 15:24, KJV)"
+    ],
+    "context": "Jesus tells of a son who returns home expecting rejection—but is met with celebration. God restores with joy, not reluctance.",
+    "reflection": "No matter how far you feel you have wandered, God’s welcome has not changed. His arms remain open.",
+    "prayer": "Lord, I want to come home. Restore me with Your love.",
+    "additional": ["Psalm 23:3", "Joel 2:25", "Hosea 6:1"]
+  },
+
+  {
+    "id": "shame-prov28",
+    "category": "emotions",
+    "title": "When You Are Feeling Shame",
+    "tags": ["shame", "guilt", "hidden"],
+    "scripture": [
+      "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy. (Proverbs 28:13, KJV)"
+    ],
+    "context": "This proverb teaches that healing comes not from hiding, but from honesty. Mercy meets truth-telling.",
+    "reflection": "Shame tells you to hide. God invites you to be seen and still loved. Healing lives in the open, not the shadows.",
+    "prayer": "Lord, help me bring what is hidden into Your light, and find mercy there.",
+    "additional": ["Psalm 32:5", "James 5:16", "Hebrews 12:2"]
+  },
+
+  {
+    "id": "notunderstood-heb4",
+    "category": "emotions",
+    "title": "When You Feel No One Understands",
+    "tags": ["misunderstood", "alone", "unseen"],
+    "scripture": [
+      "For we have not an high priest which cannot be touched with the feeling of our infirmities. (Hebrews 4:15, KJV)"
+    ],
+    "context": "Jesus knows what it is to feel alone, betrayed, misunderstood, and unseen. He understands our pain from the inside.",
+    "reflection": "You are not as alone as your feelings suggest. Jesus knows this ache. He sits with you in it.",
+    "prayer": "Lord, I feel unseen. Thank You for understanding me when others cannot.",
+    "additional": ["Psalm 139:1-4", "John 11:35", "Isaiah 53:3"]
+  },
+
+  {
+    "id": "stingy-prov11",
+    "category": "spiritual",
+    "title": "When You Are Tempted to Be Stingy",
+    "tags": ["giving", "generosity", "resources"],
+    "scripture": [
+      "The liberal soul shall be made fat: and he that watereth shall be watered also himself. (Proverbs 11:25, KJV)"
+    ],
+    "context": "This proverb teaches that generosity is not loss—it is participation in the abundance of God.",
+    "reflection": "Fear tells you to hold tightly. Trust loosens the grip. You are not giving away what sustains you—God is the one who sustains.",
+    "prayer": "Lord, help me give freely as You have given to me.",
+    "additional": ["2 Corinthians 9:7", "Luke 6:38", "Malachi 3:10"]
+  },
+
+  {
+    "id": "budget-2cor9",
+    "category": "spiritual",
+    "title": "When You Plan Your Budget",
+    "tags": ["money", "budget", "provision"],
+    "scripture": [
+      "He which soweth bountifully shall reap also bountifully. (2 Corinthians 9:6, KJV)"
+    ],
+    "context": "Paul teaches that giving is a matter of the heart—not pressure, but joyful trust in God's provision.",
+    "reflection": "Your resources are not just numbers—they are seeds. What you plant in love grows into life that returns to you in peace.",
+    "prayer": "Lord, guide my decisions. Teach me to handle what I have with trust and wisdom.",
+    "additional": ["Proverbs 3:9-10", "Philippians 4:19", "Matthew 6:21"]
+  },
+
+  {
+    "id": "leavehome-ps121",
+    "category": "emotions",
+    "title": "When You Have to Leave Home",
+    "tags": ["transition", "change", "relocation", "uncertainty"],
+    "scripture": [
+      "The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore. (Psalm 121:8, KJV)"
+    ],
+    "context": "Psalm 121 is a traveler’s psalm—a reminder for those on unfamiliar paths. It speaks of God watching over every step, not just the destination.",
+    "reflection": "Leaving what is familiar can feel unsettling. Yet God does not stay behind when you move forward. He travels with you, steady and present, even when the road feels uncertain.",
+    "prayer": "Lord, I am stepping into the unfamiliar. Walk with me and steady my heart.",
+    "additional": ["Deuteronomy 31:8", "Joshua 1:9", "Proverbs 3:5-6"]
+  },
+
+  {
+    "id": "tired-ps127",
+    "category": "emotions",
+    "title": "When You Are Tired",
+    "tags": ["tired", "weary", "exhausted"],
+    "scripture": [
+      "He giveth his beloved sleep. (Psalm 127:2, KJV)"
+    ],
+    "context": "This psalm acknowledges that constant striving cannot sustain the soul. Rest is not laziness—it is a gift from God.",
+    "reflection": "Your worth is not measured by output or productivity. Rest is holy. You are allowed to stop, breathe, and be held by God.",
+    "prayer": "Lord, I am tired. Let my rest be real and my peace be deep.",
+    "additional": ["Matthew 11:28", "Psalm 23:2", "Isaiah 40:31"]
+  },
+
+  {
+    "id": "friends-ps55",
+    "category": "emotions",
+    "title": "When Friends Seem to Turn on You",
+    "tags": ["betrayal", "hurt", "relationships"],
+    "scripture": [
+      "For it was not an enemy that reproached me... but it was thou, a man mine equal, my guide, and mine acquaintance. (Psalm 55:12-13, KJV)"
+    ],
+    "context": "David expresses the pain of betrayal—not from enemies but from someone close. Scripture acknowledges the deep wound of relational loss.",
+    "reflection": "Being hurt by someone you trusted leaves a tender ache. God does not dismiss this pain—He holds it with you, and He understands it deeply.",
+    "prayer": "Lord, this hurt is deep. Heal what was broken and guard my heart from bitterness.",
+    "additional": ["Psalm 34:18", "John 16:33", "Colossians 3:13"]
+  },
+
+  {
+    "id": "loss-lovedone-1thess4",
+    "category": "emotions",
+    "title": "When You Lose a Loved One",
+    "tags": ["grief", "loss", "mourning"],
+    "scripture": [
+      "That ye sorrow not, even as others which have no hope. (1 Thessalonians 4:13, KJV)"
+    ],
+    "context": "Paul is not telling believers not to grieve—he is showing that grief and hope can exist together because death is not the end.",
+    "reflection": "Your grief is real, and your love was real. God sits with you in the sorrow and holds the hope of reunion gently, patiently.",
+    "prayer": "Lord, my heart hurts. Hold me in my grief and remind me that love is not lost.",
+    "additional": ["John 14:1-3", "Psalm 147:3", "Revelation 21:4"]
+  },
+
+  {
+    "id": "death-ps23",
+    "category": "emotions",
+    "title": "When You Are Afraid of Death",
+    "tags": ["death", "fear", "uncertainty"],
+    "scripture": [
+      "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me. (Psalm 23:4, KJV)"
+    ],
+    "context": "David speaks of death as a valley—a passage, not an end—and emphasizes God's presence even in the deepest shadows.",
+    "reflection": "Fear of death is human. Yet you do not face that fear alone. God walks every step with you—both now and beyond.",
+    "prayer": "Lord, calm my fears with Your presence. Help me trust Your care in life and beyond.",
+    "additional": ["John 11:25-26", "Psalm 16:11", "1 Corinthians 15:54-55"]
+  },
+
+  {
+    "id": "revenge-rom12",
+    "category": "emotions",
+    "title": "When You Want to Take Revenge",
+    "tags": ["anger", "justice", "hurt"],
+    "scripture": [
+      "Vengeance is mine; I will repay, saith the Lord. (Romans 12:19, KJV)"
+    ],
+    "context": "Paul reminds believers that justice belongs to God because only God judges with perfect understanding and love.",
+    "reflection": "The desire for revenge grows out of real pain. God does not ask you to pretend that the hurt was small. He simply asks you to let Him carry the weight of justice.",
+    "prayer": "Lord, my anger is heavy. Help me release what I cannot carry.",
+    "additional": ["Psalm 37:7-9", "Matthew 5:44", "Proverbs 20:22"]
+  },
+
+  {
+    "id": "failedgod-2tim2",
+    "category": "spiritual",
+    "title": "When You Have Failed God",
+    "tags": ["failure", "regret", "mercy"],
+    "scripture": [
+      "If we believe not, yet he abideth faithful: he cannot deny himself. (2 Timothy 2:13, KJV)"
+    ],
+    "context": "Paul reminds the church that God’s faithfulness is not fragile. Our failures do not cancel His love.",
+    "reflection": "Your failure is not the end of your story. God’s loyalty to you is stronger than your lowest moment.",
+    "prayer": "Lord, I feel like I have failed You. Thank You for remaining faithful even when I am weak.",
+    "additional": ["Psalm 103:8-12", "Micah 7:18", "John 21:15-17"]
+  },
+
+  {
+    "id": "abandoned-heb13",
+    "category": "emotions",
+    "title": "When You Feel Abandoned",
+    "tags": ["abandoned", "alone", "forsaken"],
+    "scripture": [
+      "I will never leave thee, nor forsake thee. (Hebrews 13:5, KJV)"
+    ],
+    "context": "This promise is given to reassure hearts that feel forgotten. God’s presence is not dependent on your emotional state.",
+    "reflection": "You may feel alone, but you are not deserted. God stays when others walk away.",
+    "prayer": "Lord, I feel abandoned. Stay close and remind me You are still here.",
+    "additional": ["Deuteronomy 31:6", "Psalm 27:10", "Isaiah 49:15-16"]
+  },
+
+  {
+    "id": "needmorehelp-ps46",
+    "category": "emotions",
+    "title": "When You Need More Than Human Help",
+    "tags": ["overwhelmed", "helpless", "need help"],
+    "scripture": [
+      "God is our refuge and strength, a very present help in trouble. (Psalm 46:1, KJV)"
+    ],
+    "context": "Psalm 46 was written during a time of national crisis and fear. Instead of explaining the problem away, it declares God’s nearness in the middle of chaos.",
+    "reflection": "There are moments when no person, plan, or logic can carry you. In those moments, God does not watch from a distance—He steps close and holds you steady.",
+    "prayer": "Lord, I do not have the strength for this. Please be my help right now.",
+    "additional": ["Psalm 121:1-2", "Isaiah 41:10", "Matthew 14:30-31"]
+  },
+
+  {
+    "id": "pasthaunts-col1",
+    "category": "emotions",
+    "title": "When Your Past Haunts You",
+    "tags": ["past", "regret", "memory", "shame"],
+    "scripture": [
+      "And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled. (Colossians 1:21, KJV)"
+    ],
+    "context": "Paul explains that God has already brought believers back into relationship with Him, not by their goodness but by Christ’s sacrifice.",
+    "reflection": "Your past may feel loud, but it does not define you. God’s voice over your life is stronger, kinder, and final.",
+    "prayer": "Lord, quiet the voice of my past and let Your grace speak louder.",
+    "additional": ["2 Corinthians 5:17", "Psalm 103:12", "Romans 8:1"]
+  },
+
+  {
+    "id": "getheadright-phil4",
+    "category": "spiritual",
+    "title": "When You Need to Get Your Head on Right",
+    "tags": ["thoughts", "focus", "clarity"],
+    "scripture": [
+      "Whatsoever things are true... think on these things. (Philippians 4:8, KJV)"
+    ],
+    "context": "Paul teaches that peace is cultivated intentionally by directing the mind toward what reflects God's goodness.",
+    "reflection": "Your mind can drift toward fear, comparison, or self-criticism. You don’t have to stay there. Shift slowly toward what is true and gentle.",
+    "prayer": "Lord, guide my mind toward peace and clarity.",
+    "additional": ["Isaiah 26:3", "Psalm 19:14", "Romans 12:2"]
+  },
+
+  {
+    "id": "notalone-tempted-1cor10",
+    "category": "spiritual",
+    "title": "When You Think You Are the Only One Being Tempted",
+    "tags": ["temptation", "isolation", "struggle"],
+    "scripture": [
+      "There hath no temptation taken you but such as is common to man... God is faithful. (1 Corinthians 10:13, KJV)"
+    ],
+    "context": "Paul reminds believers that temptation is not a sign of spiritual failure—it is a universally human experience.",
+    "reflection": "Temptation whispers that you are isolated or uniquely broken. God says you are not alone—and there is always a path toward Him.",
+    "prayer": "Lord, show me the way out and give me the strength to choose it.",
+    "additional": ["James 4:7", "Hebrews 2:18", "Psalm 119:11"]
+  },
+
+  {
+    "id": "guidance-pro3",
+    "category": "spiritual",
+    "title": "When You Need Guidance",
+    "tags": ["direction", "wisdom", "decisions"],
+    "scripture": [
+      "Trust in the Lord with all thine heart... and he shall direct thy paths. (Proverbs 3:5-6, KJV)"
+    ],
+    "context": "This proverb teaches surrender—not abandoning responsibility, but releasing anxious control.",
+    "reflection": "You do not need perfect clarity to take the next step. Trust opens the path one step at a time.",
+    "prayer": "Lord, guide my steps and lead my decisions with peace.",
+    "additional": ["Psalm 25:4-5", "James 1:5", "Isaiah 30:21"]
+  },
+
+  {
+    "id": "bitter-heb12",
+    "category": "emotions",
+    "title": "When You're Feeling Bitter",
+    "tags": ["resentment", "hurt", "frustration"],
+    "scripture": [
+      "Looking diligently lest any root of bitterness springing up trouble you. (Hebrews 12:15, KJV)"
+    ],
+    "context": "Bitterness is described as a root because it grows quietly and spreads if left unattended.",
+    "reflection": "Bitterness feels protective, but it closes the heart to healing. God invites you to release what is poisoning your peace.",
+    "prayer": "Lord, uproot bitterness from my heart and replace it with Your peace.",
+    "additional": ["Ephesians 4:31-32", "Matthew 5:44", "Psalm 139:23-24"]
+  },
+
+  {
+    "id": "wronged-col3",
+    "category": "emotions",
+    "title": "When Someone Has Wronged You",
+    "tags": ["hurt", "injustice", "forgiveness"],
+    "scripture": [
+      "Even as Christ forgave you, so also do ye. (Colossians 3:13, KJV)"
+    ],
+    "context": "Forgiveness is not excusing harm—it is releasing the burden of carrying the pain alone.",
+    "reflection": "Forgiveness is a process. God does not rush you. He simply invites you to loosen your grip on the hurt, little by little.",
+    "prayer": "Lord, help me walk toward forgiveness, even if slowly.",
+    "additional": ["Matthew 18:21-22", "Romans 12:18", "Micah 6:8"]
+  },
+
+  {
+    "id": "anxious-lk12",
+    "category": "emotions",
+    "title": "When You Are Anxious",
+    "tags": ["anxious", "worried", "uncertain"],
+    "scripture": [
+      "Take no thought for your life... (Luke 12:22, KJV)"
+    ],
+    "context": "Jesus reassures His listeners that God is attentive to both their needs and their hearts.",
+    "reflection": "Anxiety tries to convince you that everything depends on you. But God is the One who sustains and provides.",
+    "prayer": "Lord, quiet my anxious thoughts and remind me You are near.",
+    "additional": ["Philippians 4:6-7", "Psalm 94:19", "1 Peter 5:7"]
+  },
+
+  {
+    "id": "weak-2cor12",
+    "category": "emotions",
+    "title": "When You Feel Weak",
+    "tags": ["weak", "tired", "not enough"],
+    "scripture": [
+      "My grace is sufficient for thee: for my strength is made perfect in weakness. (2 Corinthians 12:9, KJV)"
+    ],
+    "context": "Paul speaks of a struggle he could not remove on his own. Instead of leaving him abandoned in weakness, God promises presence and sustaining strength.",
+    "reflection": "Weakness is not failure. It is the place where God quietly pours strength into the cracks. You do not need to be enough—God is enough for you.",
+    "prayer": "Lord, I feel weak. Be my strength in all I cannot carry.",
+    "additional": ["Psalm 73:26", "Isaiah 40:29", "Philippians 4:13"]
+  },
+
+  {
+    "id": "suffer-1pet1",
+    "category": "emotions",
+    "title": "When You Suffer for Doing Right",
+    "tags": ["misunderstood", "unfair", "hurt"],
+    "scripture": [
+      "The trial of your faith... might be found unto praise and honour and glory. (1 Peter 1:7, KJV)"
+    ],
+    "context": "Peter writes to believers under pressure and mistreatment. He does not dismiss their pain but assures them their endurance is precious to God.",
+    "reflection": "Doing what is right can feel costly. But your integrity is seen, honored, and held by God Himself.",
+    "prayer": "Lord, strengthen me to keep choosing what is right, even when it hurts.",
+    "additional": ["Matthew 5:10-12", "Psalm 37:7", "Galatians 6:9"]
+  },
+
+  {
+    "id": "delay-john11",
+    "category": "spiritual",
+    "title": "When God Seems to Delay",
+    "tags": ["waiting", "delay", "confusion"],
+    "scripture": [
+      "Lord, if thou hadst been here... (John 11:21, KJV)"
+    ],
+    "context": "Mary and Martha both express grief and confusion when Jesus arrives after Lazarus’ death. Jesus does not rebuke them—He weeps with them before revealing a deeper purpose.",
+    "reflection": "Waiting can feel like abandonment. But God’s timing is never careless. He walks with you in the sorrow while He works what you cannot yet see.",
+    "prayer": "Lord, I do not understand the delay. Hold me while I wait.",
+    "additional": ["Isaiah 55:8-9", "Psalm 27:14", "John 11:35"]
+  },
+
+  {
+    "id": "wisdom-james1",
+    "category": "spiritual",
+    "title": "When You Need Wisdom",
+    "tags": ["wisdom", "decisions", "direction"],
+    "scripture": [
+      "If any of you lack wisdom, let him ask of God... and it shall be given him. (James 1:5, KJV)"
+    ],
+    "context": "James reminds believers that God does not give wisdom reluctantly. He gives generously, without shaming or scolding.",
+    "reflection": "You don’t have to figure everything out alone. Ask simply. God delights to guide you.",
+    "prayer": "Lord, give me wisdom that is gentle, clear, and steady.",
+    "additional": ["Proverbs 2:6", "Psalm 25:4-5", "Colossians 1:9"]
+  },
+
+  {
+    "id": "jealousy-pro14",
+    "category": "emotions",
+    "title": "When You're Jealous of Others",
+    "tags": ["envy", "comparison", "insecurity"],
+    "scripture": [
+      "A sound heart is the life of the flesh: but envy the rottenness of the bones. (Proverbs 14:30, KJV)"
+    ],
+    "context": "Scripture warns that envy drains the soul. It does not bring gain—it only steals peace.",
+    "reflection": "When comparison rises, it’s a sign your heart is hungry for reassurance. God sees you. You are not behind. Your story is still unfolding.",
+    "prayer": "Lord, calm my comparison and teach me contentment in You.",
+    "additional": ["Philippians 4:11", "Psalm 16:5-6", "James 3:16-17"]
+  },
+
+  {
+    "id": "inaction-lk24",
+    "category": "spiritual",
+    "title": "When God Does Not Seem to Act",
+    "tags": ["disappointment", "confusion", "delay"],
+    "scripture": [
+      "But we trusted... (Luke 24:21, KJV)"
+    ],
+    "context": "After the crucifixion, two disciples feel devastated because God didn’t act how they expected. Jesus walks with them unrecognized and slowly rekindles their hope.",
+    "reflection": "God may already be walking beside you in ways you cannot yet perceive. Your story is still unfolding.",
+    "prayer": "Lord, open my eyes to Your quiet nearness.",
+    "additional": ["Habakkuk 1:5", "Psalm 77:11-12", "Isaiah 42:16"]
+  },
+
+  {
+    "id": "purpose-ps138",
+    "category": "spiritual",
+    "title": "When You Seek Assurance of God’s Purpose",
+    "tags": ["purpose", "calling", "direction"],
+    "scripture": [
+      "The Lord will perfect that which concerneth me. (Psalm 138:8, KJV)"
+    ],
+    "context": "David expresses confidence that God completes what He begins—not because David’s strength is enough, but because God’s faithfulness is.",
+    "reflection": "Your life is not random. God is weaving purpose even in the quiet, ordinary, and unseen parts of your story.",
+    "prayer": "Lord, fulfill Your purpose in me and steady my heart while You do.",
+    "additional": ["Jeremiah 29:11", "Philippians 1:6", "Psalm 37:23"]
+  },
+
+  {
+    "id": "prayer-abcs-lk11",
+    "category": "spiritual",
+    "title": "When You Need to Know the ABCs of Prayer",
+    "tags": ["prayer", "learning", "how to pray"],
+    "scripture": [
+      "Lord, teach us to pray. (Luke 11:1, KJV)"
+    ],
+    "context": "The disciples were not ashamed to admit they didn’t know how to pray. Jesus responds not with criticism, but with a simple, grounded pattern: prayer begins with remembering who God is, trusting His care, and aligning the heart with His will.",
+    "reflection": "Prayer is not about eloquence. It is about honesty. Start where you are. Speak simply. God is not grading your performance—He enjoys your voice.",
+    "prayer": "Lord, teach my heart to speak with You simply and sincerely.",
+    "additional": ["Matthew 6:7-8", "Psalm 62:8", "Romans 8:26"]
+  },
+
+  {
+    "id": "giveup-full-lk11",
+    "category": "emotions",
+    "title": "When You Feel Like Giving Up",
+    "tags": ["exhausted", "hopeless", "done"],
+    "scripture": [
+      "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened. (Luke 11:9, KJV)"
+    ],
+    "context": "Jesus tells a parable of someone who keeps knocking long after strength is gone. The point is not persistence for its own sake, but the assurance that God is not irritated by repeated prayers—He responds with care.",
+    "reflection": "The desire to quit comes when results feel invisible. God is not ignoring you; He is still working where you cannot yet see. Your small prayers are still heard.",
+    "prayer": "Lord, I feel worn out and discouraged. Hold me in this place and help me take one more step.",
+    "additional": ["Isaiah 40:29", "Psalm 31:24", "Galatians 6:9"]
+  },
+
+  {
+    "id": "insufficientfaith-mk9",
+    "category": "spiritual",
+    "title": "When Your Faith Feels Insufficient",
+    "tags": ["weak faith", "doubt", "uncertainty"],
+    "scripture": [
+      "Lord, I believe; help thou mine unbelief. (Mark 9:24, KJV)"
+    ],
+    "context": "A father comes to Jesus desperate, unsure if his faith is strong enough. Jesus does not demand perfect belief—He meets the man in his mixture of hope and doubt.",
+    "reflection": "Faith is not the absence of doubt—it is the act of turning toward God even while doubting. God honors even the smallest movement of trust.",
+    "prayer": "Lord, I don’t feel strong in faith. Meet me in the gap between what I say and what I truly feel.",
+    "additional": ["Matthew 17:20", "Hebrews 11:6", "Psalm 73:26"]
+  },
+
+  {
+    "id": "fearfailure-ps37",
+    "category": "emotions",
+    "title": "When You Fear Failure",
+    "tags": ["failure", "fear", "insecurity"],
+    "scripture": [
+      "Though he fall, he shall not be utterly cast down: for the Lord upholdeth him with his hand. (Psalm 37:24, KJV)"
+    ],
+    "context": "This psalm acknowledges that you may stumble—but God’s hand prevents collapse. Failure is not final.",
+    "reflection": "Your worth is not measured by success. The fall does not define you—the hand that holds you does.",
+    "prayer": "Lord, when I fall, let me fall into Your hands, not into despair.",
+    "additional": ["Proverbs 24:16", "Micah 7:8", "Philippians 1:6"]
+  },
+
+  {
+    "id": "powershortage-eph1",
+    "category": "spiritual",
+    "title": "When You Experience a Power Shortage",
+    "tags": ["weakness", "drained", "spiritual fatigue"],
+    "scripture": [
+      "The exceeding greatness of his power to us-ward who believe... (Ephesians 1:19, KJV)"
+    ],
+    "context": "Paul reminds believers that the same power that raised Christ is the power God works in us—not stored in our emotions, but given by His Spirit.",
+    "reflection": "Your strength is not the source of your strength. Power does not start in you—it flows to you. Receive, don’t manufacture.",
+    "prayer": "Lord, fill what is empty within me. I cannot do this alone.",
+    "additional": ["2 Corinthians 12:9-10", "Colossians 1:11", "Isaiah 40:31"]
+  },
+
+  {
+    "id": "hopesdashed-ps34",
+    "category": "emotions",
+    "title": "When Your Hopes Are Dashed",
+    "tags": ["disappointment", "heartbreak", "loss"],
+    "scripture": [
+      "The Lord is nigh unto them that are of a broken heart. (Psalm 34:18, KJV)"
+    ],
+    "context": "David writes this psalm after deep personal fear and heartbreak. He assures that God is close to the brokenhearted—not distant or disinterested.",
+    "reflection": "Hope that breaks leaves an ache that feels sharp and personal. God does not rush your healing. He sits with you while you mend.",
+    "prayer": "Lord, my heart hurts. Stay close as I learn how to breathe again.",
+    "additional": ["Psalm 147:3", "Lamentations 3:22-23", "Romans 5:3-5"]
+  },
+
+  {
+    "id": "waveafterwave-james1",
+    "category": "emotions",
+    "title": "When Trouble Comes in Wave After Wave",
+    "tags": ["overwhelmed", "constant struggle", "discouraged"],
+    "scripture": [
+      "The trying of your faith worketh patience. (James 1:3, KJV)"
+    ],
+    "context": "James is not glorifying suffering—he is naming the hidden work that often happens beneath it: endurance, depth, and softened humility.",
+    "reflection": "This storm does not mean God has abandoned you. Something is being formed in you that easy seasons cannot produce.",
+    "prayer": "Lord, I am tired of wave after wave. Steady me so I do not sink.",
+    "additional": ["Psalm 61:2", "Romans 8:28", "Isaiah 43:2"]
+  },
+
+  {
+    "id": "doubtyourworth-ps139",
+    "category": "emotions",
+    "title": "When You Doubt Your Worth",
+    "tags": ["identity", "self-esteem", "belonging"],
+    "scripture": [
+      "I will praise thee; for I am fearfully and wonderfully made. (Psalm 139:14, KJV)"
+    ],
+    "context": "David reflects on the intimate care of God in forming every part of his being. Your value is not self-generated—it is bestowed.",
+    "reflection": "Your worth is not based on performance, image, or comparison. Your identity begins in God's intentional love.",
+    "prayer": "Lord, remind me who I am when I forget my own value.",
+    "additional": ["Isaiah 43:1", "Ephesians 2:10", "John 15:9"]
+  },
+
+  {
+    "id": "dullscripture-1thess2",
+    "category": "spiritual",
+    "title": "When Reading Scripture Seems Dull",
+    "tags": ["dry", "unmoved", "uninterested"],
+    "scripture": [
+      "The word of God... effectually worketh also in you that believe. (1 Thessalonians 2:13, KJV)"
+    ],
+    "context": "Paul reminds believers that Scripture is not just words—it is living truth that works slowly and deeply over time.",
+    "reflection": "Spiritual dryness does not mean you are far from God. It means you are being invited to stay steady when emotion is quiet. Keep reading. The work is happening beneath the surface.",
+    "prayer": "Lord, awaken my heart again to Your Word. Let truth take root.",
+    "additional": ["Psalm 119:18", "Isaiah 55:10-11", "Hebrews 4:12"]
+  },
+
+  {
+    "id": "misreadintentions-matt5",
+    "category": "emotions",
+    "title": "When People Misread Your Intentions",
+    "tags": ["misunderstood", "frustrated", "hurt"],
+    "scripture": [
+      "Blessed are ye, when men shall revile you... for my sake. (Matthew 5:11, KJV)"
+    ],
+    "context": "Jesus acknowledges the pain of being misunderstood—and promises blessing for those who endure it with integrity.",
+    "reflection": "You cannot control how others interpret your actions. You can only choose to live with honesty before God. Let Him be the keeper of your reputation.",
+    "prayer": "Lord, help me remain patient and steady when I am misunderstood.",
+    "additional": ["Romans 12:18", "Psalm 37:5-6", "1 Peter 2:23"]
+  },
+
+  {
+    "id": "pride-rom12",
+    "category": "spiritual",
+    "title": "When You Are Prideful",
+    "tags": ["pride", "ego", "self-importance"],
+    "scripture": [
+      "Not to think of himself more highly than he ought to think. (Romans 12:3, KJV)"
+    ],
+    "context": "Paul teaches humility not as self-hatred but as honest self-assessment in light of grace.",
+    "reflection": "Pride grows when we forget we are held by grace. Humility is remembering that our worth comes from God, not image or achievement.",
+    "prayer": "Lord, teach me to see myself clearly—with honesty and humility.",
+    "additional": ["James 4:6", "Proverbs 16:18", "Micah 6:8"]
+  },
+
+  {
+    "id": "doubtgodable-eph3",
+    "category": "spiritual",
+    "title": "When You Doubt That God Is Able",
+    "tags": ["doubt", "uncertainty", "fear"],
+    "scripture": [
+      "Now unto him that is able to do exceeding abundantly above all that we ask or think... (Ephesians 3:20, KJV)"
+    ],
+    "context": "Paul roots confidence not in human capacity but in the limitless ability of God.",
+    "reflection": "The limits you feel are not the limits of God. Trust does not require you to see the solution—only to believe God has not run out of power.",
+    "prayer": "Lord, expand my understanding of Your power and presence.",
+    "additional": ["Jeremiah 32:17", "Luke 1:37", "Psalm 147:5"]
+  },
+
+  {
+    "id": "angry-eph4",
+    "category": "emotions",
+    "title": "When You Are Angry",
+    "tags": ["anger", "frustration", "irritation"],
+    "scripture": [
+      "Be ye angry, and sin not... (Ephesians 4:26, KJV)"
+    ],
+    "context": "Scripture acknowledges that anger is real and human—yet warns that without care, it quickly becomes destructive.",
+    "reflection": "Your anger is telling you something is wrong—but it cannot tell you what to do next. Pause. Let God guide your response before your emotions lead it.",
+    "prayer": "Lord, calm my reactions and teach me to respond with wisdom.",
+    "additional": ["Proverbs 15:1", "James 1:19-20", "Psalm 37:8"]
+  },
+
+  {
+    "id": "evilprospers-ps37",
+    "category": "emotions",
+    "title": "When You See Evil People Prosper",
+    "tags": ["injustice", "confusion", "envy"],
+    "scripture": [
+      "Fret not thyself because of evildoers... (Psalm 37:1, KJV)"
+    ],
+    "context": "David teaches that evil success is temporary and unstable, while the life built on God is lasting.",
+    "reflection": "When the wrong seems to win, your heart aches for fairness. Trust that God sees clearly and acts justly in the right time.",
+    "prayer": "Lord, help me trust Your justice instead of resenting what I see.",
+    "additional": ["Psalm 73:2-3, 16-17", "Romans 12:19", "Proverbs 24:19-20"]
+  },
+
+  {
+    "id": "self-focused-lk12",
+    "category": "spiritual",
+    "title": "When You Are Tempted to Look Out Only for Yourself",
+    "tags": ["selfishness", "self-focus", "greed"],
+    "scripture": [
+      "So is he that layeth up treasure for himself, and is not rich toward God. (Luke 12:21, KJV)"
+    ],
+    "context": "Jesus warns that the pursuit of security apart from God leads to emptiness, not peace.",
+    "reflection": "Self-protection can feel safe, but it shrinks the soul. Life grows richer when it is shared and surrendered.",
+    "prayer": "Lord, loosen my grip and turn my heart outward toward You and others.",
+    "additional": ["Philippians 2:3-4", "Proverbs 11:25", "2 Corinthians 9:8"]
+  },
+
+  {
+    "id": "heavyload-matt11",
+    "category": "emotions",
+    "title": "When You Carry a Heavy Load",
+    "tags": ["burdened", "weary", "overwhelmed"],
+    "scripture": [
+      "Come unto me, all ye that labour and are heavy laden, and I will give you rest. (Matthew 11:28, KJV)"
+    ],
+    "context": "Jesus offers rest not by removing responsibility, but by lifting the weight of carrying it alone.",
+    "reflection": "Your load feels heavy because you are holding it by yourself. Surrender does not mean giving up—it means letting God carry the part you were not meant to hold.",
+    "prayer": "Lord, lighten my burden and steady my steps.",
+    "additional": ["Psalm 55:22", "1 Peter 5:7", "Isaiah 30:15"]
+  },
+
+  {
+    "id": "direction-ps25",
+    "category": "spiritual",
+    "title": "When You Need Direction",
+    "tags": ["guidance", "decision", "clarity"],
+    "scripture": [
+      "The meek will he guide in judgment: and the meek will he teach his way. (Psalm 25:9, KJV)"
+    ],
+    "context": "David teaches that guidance is not just about knowledge—it begins with humility. A teachable heart finds direction.",
+    "reflection": "God often guides slowly, step by step. The question is not, 'Do I know everything?' but, 'Am I willing to follow?'",
+    "prayer": "Lord, soften my heart to hear and follow Your direction.",
+    "additional": ["Proverbs 3:5-6", "Psalm 32:8", "James 1:5"]
+  },
+
+  {
+    "id": "worry-matt6",
+    "category": "emotions",
+    "title": "When You Worry",
+    "tags": ["anxiety", "uncertainty", "future"],
+    "scripture": [
+      "Take therefore no thought for the morrow. (Matthew 6:34, KJV)"
+    ],
+    "context": "Jesus does not deny that life is heavy—He redirects the heart to trust the Father who sees, knows, and provides.",
+    "reflection": "Worry grows when the future feels larger than God. Bring your thoughts back to today. God meets you in the present moment.",
+    "prayer": "Lord, help me release tomorrow and trust You with today.",
+    "additional": ["1 Peter 5:7", "Philippians 4:6-7", "Psalm 94:19"]
+  },
+
+  {
+    "id": "selfishness-matt16",
+    "category": "spiritual",
+    "title": "When Selfishness Gets a Grip",
+    "tags": ["self-focus", "ego", "comfort"],
+    "scripture": [
+      "For whosoever will save his life shall lose it... (Matthew 16:25, KJV)"
+    ],
+    "context": "Jesus teaches that life grows as we release control and live open-handed.",
+    "reflection": "Self-protection feels safe, but it shrinks the soul. Love expands when you let go of grasping for yourself first.",
+    "prayer": "Lord, help me choose love over self-protection.",
+    "additional": ["Philippians 2:3-4", "Galatians 5:13", "Proverbs 11:25"]
+  },
+
+  {
+    "id": "doubt-love-john3",
+    "category": "emotions",
+    "title": "When You Doubt That God Loves You",
+    "tags": ["doubt", "identity", "belonging"],
+    "scripture": [
+      "For God so loved the world, that he gave his only begotten Son... (John 3:16, KJV)"
+    ],
+    "context": "God’s love is proven not by how you feel today, but by what Jesus has already done.",
+    "reflection": "Your feelings may shift, but God's love does not. Love is not something you earn—it's something God has already given.",
+    "prayer": "Lord, let Your love settle deeply into my heart.",
+    "additional": ["Romans 8:38-39", "Jeremiah 31:3", "1 John 4:9-10"]
+  },
+
+  {
+    "id": "owedmercy-rom2",
+    "category": "spiritual",
+    "title": "When You Think God Owes You Mercy",
+    "tags": ["entitlement", "self-righteousness", "expectation"],
+    "scripture": [
+      "Despisest thou the riches of his goodness and forbearance and longsuffering... (Romans 2:4, KJV)"
+    ],
+    "context": "Paul gently confronts the idea that grace is something we deserve. Mercy is always a gift, never a wage.",
+    "reflection": "God’s mercy is not earned—it is received. Gratitude opens the heart; entitlement closes it.",
+    "prayer": "Lord, teach me to receive Your mercy with humility and gratitude.",
+    "additional": ["Psalm 51:17", "Micah 6:8", "Luke 18:13-14"]
+  },
+
+  {
+    "id": "evilworld-rom8",
+    "category": "emotions",
+    "title": "When the Evil in the World Seems Overwhelming",
+    "tags": ["fear", "darkness", "overwhelmed"],
+    "scripture": [
+      "The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. (Romans 8:18, KJV)"
+    ],
+    "context": "Paul acknowledges deep suffering but anchors hope in the ultimate renewal God will bring.",
+    "reflection": "You are not blind for seeing the world's pain. But allow hope to be just as real as the hurt. God is not finished.",
+    "prayer": "Lord, anchor my heart when the world feels heavy.",
+    "additional": ["John 16:33", "Psalm 46:2-3", "Revelation 21:5"]
+  },
+
+  {
+    "id": "evilgreater-rev19",
+    "category": "spiritual",
+    "title": "When Evil Seems Greater Than God",
+    "tags": ["fear", "doubt", "power"],
+    "scripture": [
+      "Alleluia: for the Lord God omnipotent reigneth. (Revelation 19:6, KJV)"
+    ],
+    "context": "This passage declares God’s ultimate victory and reign—evil does not have the final word.",
+    "reflection": "Evil is loud, but God is lasting. Noise is not power. God remains sovereign, even when appearances seem otherwise.",
+    "prayer": "Lord, steady my faith in Your strength and victory.",
+    "additional": ["Psalm 103:19", "Colossians 2:15", "Psalm 97:1"]
+  },
+
+  {
+    "id": "nopeace-rom5",
+    "category": "spiritual",
+    "title": "When You Don't Feel at Peace with God",
+    "tags": ["distance", "restlessness", "inner conflict"],
+    "scripture": [
+      "Therefore being justified by faith, we have peace with God... (Romans 5:1, KJV)"
+    ],
+    "context": "Paul teaches that peace with God is not a feeling—it is a settled relationship based on Christ’s work, not our performance.",
+    "reflection": "Peace is not proven by emotion. It is rooted in the reality that God has already drawn you near.",
+    "prayer": "Lord, let my heart rest in what is already true.",
+    "additional": ["Ephesians 2:13", "Hebrews 10:22", "John 14:27"]
+  },
+
+  {
+    "id": "marriage-wife-eph5",
+    "category": "relationships",
+    "title": "When There Are Troubles With Your Wife",
+    "tags": ["marriage", "conflict", "love", "reconciliation"],
+    "scripture": [
+      "Husbands, love your wives, even as Christ also loved the church, and gave himself for it. (Ephesians 5:25, KJV)"
+    ],
+    "context": "Paul describes love not as emotion or convenience, but as self-giving modeled after Christ. The call is not to control, but to serve and cherish.",
+    "reflection": "When conflict rises, it is easy to defend yourself. Love invites you instead to listen, soften, and serve. Healing begins when pride steps back.",
+    "prayer": "Lord, teach me to love with patience, humility, and tenderness.",
+    "additional": ["Colossians 3:19", "1 Peter 3:7", "1 Corinthians 13:4-7"]
+  },
+
+  {
+    "id": "marriage-husband-eph5",
+    "category": "relationships",
+    "title": "When There Are Troubles With Your Husband",
+    "tags": ["marriage", "conflict", "humility", "grace"],
+    "scripture": [
+      "Wives, submit yourselves unto your own husbands, as unto the Lord. (Ephesians 5:22, KJV)"
+    ],
+    "context": "Submission here does not mean silence or erasure; it means choosing peace, respect, and gentleness instead of power struggle or hardness of heart.",
+    "reflection": "Your voice matters. Your needs matter. But peace grows when the heart seeks to understand, not to overpower. God works where humility opens space.",
+    "prayer": "Lord, help me respond with grace and patience instead of frustration.",
+    "additional": ["1 Peter 3:1-4", "Proverbs 15:1", "Colossians 3:14"]
+  },
+
+  {
+    "id": "sexualtemptation-1cor6",
+    "category": "spiritual",
+    "title": "When You Are Tempted to Commit Sexual Sins",
+    "tags": ["temptation", "desire", "purity", "self-control"],
+    "scripture": [
+      "Flee fornication... your body is the temple of the Holy Ghost. (1 Corinthians 6:18-19, KJV)"
+    ],
+    "context": "Paul teaches that sexual temptation is not resisted by arguing with desire but by *changing direction* quickly. The call is not to win a battle in the mind, but to *step away physically and mentally* from the situation.",
+    "reflection": "Temptation is not a sign of spiritual failure—it is a moment of decision. God always provides a path out. Strength is found in turning away early, not in standing in the fire.",
+    "prayer": "Lord, strengthen my will and redirect my desires toward what brings life.",
+    "additional": ["Job 31:1", "1 Corinthians 10:13", "Titus 2:11-12"]
+  },
+
+  {
+    "id": "restorejoy-ps51",
+    "category": "spiritual",
+    "title": "When You Need Restoration of Joy",
+    "tags": ["joy", "renewal", "restoration"],
+    "scripture": [
+      "Restore unto me the joy of thy salvation. (Psalm 51:12, KJV)"
+    ],
+    "context": "David prays after failure and grief, asking not for happiness, but for joy that comes from being right with God again.",
+    "reflection": "Joy is not always loud. It sometimes returns slowly, like morning light. Do not rush it. Let God restore joy in His gentle timing.",
+    "prayer": "Lord, breathe joy back into my heart where sorrow has settled.",
+    "additional": ["Nehemiah 8:10", "Psalm 30:5", "John 15:11"]
+  },
+
+  {
+    "id": "doubthears-lk18",
+    "category": "spiritual",
+    "title": "When You Doubt That God Wants to Hear From You",
+    "tags": ["prayer", "doubt", "distance"],
+    "scripture": [
+      "Men ought always to pray, and not to faint. (Luke 18:1, KJV)"
+    ],
+    "context": "Jesus tells a story of a widow who keeps returning—not because God is reluctant like the judge, but to show that God *is not like the judge*. He is eager to hear and respond.",
+    "reflection": "God does not tire of your voice. You never annoy Him. Your prayers are welcome—even when they are wordless, weary, or repetitive.",
+    "prayer": "Lord, give me confidence to come to You freely and often.",
+    "additional": ["Hebrews 4:16", "Psalm 116:1-2", "Matthew 7:7"]
+  }
+]
