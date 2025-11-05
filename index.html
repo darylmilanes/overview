@@ -40,7 +40,7 @@
         autocomplete="off"
       >
 
-      <ul id="searchResults" class="suggestions" hidden></ul>
+      <ul id="searchResults" class="suggestions"></ul>
     </section>
 
     <!-- Category Grid -->
@@ -57,14 +57,15 @@
       <article id="entryContent"></article>
     </dialog>
 
-  </main>
-
-  <footer class="foot">
-    <div class="store-container">
-      <button id="btnDownload" class="btn store">Download Bible App</button>
+    <!-- bottom panel (moved from footer) -->
+    <div class="bottom-panel">
+      <div class="store-container">
+        <button id="btnDownload" class="btn store">Download Bible App</button>
+      </div>
+      <small>You can download a Bible app for mobile access and to explore other translations.</small>
     </div>
-    <small>Scripture quotations are from the King James Version (KJV), public domain. You can download a Bible app for mobile access and to explore other translations.</small>
-  </footer>
+
+  </main>
 
   <!-- Store chooser dialog -->
   <dialog id="storeDialog" class="entry store-dialog">
