@@ -11,7 +11,6 @@ const searchResults = document.getElementById("searchResults");
 const categoryGrid = document.getElementById("categoryGrid");
 const entryDialog = document.getElementById("entryDialog");
 const entryContent = document.getElementById("entryContent");
-const btnInstall = document.getElementById("btnInstall");
 const storeDialog = document.getElementById('storeDialog');
 const btnDownload = document.getElementById('btnDownload');
 const storeAndroid = document.getElementById('storeAndroid');
@@ -203,23 +202,6 @@ entryDialog.addEventListener('close', () => {
   document.body.style.width = '';
   window.scrollTo(0, prev);
   delete document.body.dataset.scrollY;
-});
-
-// --- PWA INSTALL ---
-
-let deferredPrompt = null;
-window.addEventListener("beforeinstallprompt", (e) => {
-  e.preventDefault();
-  deferredPrompt = e;
-  btnInstall.hidden = false;
-});
-
-btnInstall.addEventListener("click", async () => {
-  if (!deferredPrompt) return;
-  deferredPrompt.prompt();
-  await deferredPrompt.userChoice;
-  deferredPrompt = null;
-  btnInstall.hidden = true;
 });
 
 // --- SERVICE WORKER ---
