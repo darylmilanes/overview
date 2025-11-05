@@ -12,6 +12,10 @@ const categoryGrid = document.getElementById("categoryGrid");
 const entryDialog = document.getElementById("entryDialog");
 const entryContent = document.getElementById("entryContent");
 const btnInstall = document.getElementById("btnInstall");
+const storeDialog = document.getElementById('storeDialog');
+const btnDownload = document.getElementById('btnDownload');
+const storeAndroid = document.getElementById('storeAndroid');
+const storeIos = document.getElementById('storeIos');
 
 // Scrollable categories set
 const SCROLLABLE_CATEGORIES = new Set(['emotions', 'spiritual', 'relationships']);
@@ -222,4 +226,61 @@ btnInstall.addEventListener("click", async () => {
 
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("service-worker.js");
+}
+
+// Open store chooser dialog
+if (btnDownload) {
+  btnDownload.addEventListener('click', () => {
+    // lock background scroll
+    const scrollY = window.scrollY || window.pageYOffset || 0;
+    document.body.dataset.scrollY = scrollY;
+    document.body.style.position = 'fixed';
+    document.body.style.top = `-${scrollY}px`;
+    document.body.style.left = '0';
+    document.body.style.right = '0';
+    document.body.style.width = '100%';
+
+    storeDialog.showModal();
+  });
+}
+
+// Close store dialog on backdrop click
+if (storeDialog) {
+  storeDialog.addEventListener('click', (event) => {
+    const rect = storeDialog.getBoundingClientRect();
+    const isInDialog = (
+      event.clientX >= rect.left &&
+      event.clientX <= rect.right &&
+      event.clientY >= rect.top &&
+      event.clientY <= rect.bottom
+    );
+    if (!isInDialog) {
+      storeDialog.close();
+    }
+  });
+
+  storeDialog.addEventListener('close', () => {
+    const prev = document.body.dataset.scrollY ? parseInt(document.body.dataset.scrollY, 10) : 0;
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.left = '';
+    document.body.style.right = '';
+    document.body.style.width = '';
+    window.scrollTo(0, prev);
+    delete document.body.dataset.scrollY;
+  });
+}
+
+// Platform buttons
+if (storeAndroid) {
+  storeAndroid.addEventListener('click', () => {
+    window.open('https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&pcampaignid=web_share', '_blank', 'noopener');
+    storeDialog.close();
+  });
+}
+if (storeIos) {
+  storeIos.addEventListener('click', () => {
+    window.open('https://apps.apple.com/us/app/bible/id282935706', '_blank', 'noopener');
+    storeDialog.close();
+  });
 }
