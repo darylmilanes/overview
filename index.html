@@ -50,6 +50,9 @@
 
     <!-- Entry Viewer (Modal) -->
     <dialog id="entryDialog" class="entry">
+      <form method="dialog">
+        <button class="close" aria-label="Close" title="Close">&times;</button>
+      </form>
       <article id="entryContent"></article>
     </dialog>
 
@@ -57,11 +60,25 @@
 
   <footer class="foot">
     <div class="store-container">
-      <a class="btn store" href="https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&pcampaignid=web_share" target="_blank" rel="noopener" aria-label="Android Bible on Google Play">Google Play</a>
-      <a class="btn store" href="https://apps.apple.com/us/app/bible/id282935706" target="_blank" rel="noopener" aria-label="Bible on the App Store">App Store</a>
+      <button id="btnDownload" class="btn store">Download Bible App</button>
     </div>
     <small>Scripture quotations are from the King James Version (KJV), public domain. You can download a Bible app for mobile access and to explore other translations.</small>
   </footer>
+
+  <!-- Store chooser dialog -->
+  <dialog id="storeDialog" class="entry store-dialog">
+    <form method="dialog">
+      <button class="close" aria-label="Close" title="Close">&times;</button>
+    </form>
+    <div id="storeContent">
+      <h3>Download Bible App</h3>
+      <p>Choose your platform:</p>
+      <div class="store-choices">
+        <button id="storeAndroid" type="button" class="btn store">Android</button>
+        <button id="storeIos" type="button" class="btn store">iOS</button>
+      </div>
+    </div>
+  </dialog>
 
   <!-- App Logic -->
   <script src="app.js" type="module"></script>
