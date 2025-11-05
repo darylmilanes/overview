@@ -61,6 +61,36 @@ async function loadContent() {
 }
 loadContent();
 
+// Show default suggestions (Emotions category) when search is empty
+function showDefaultSuggestions() {
+  const cat = categories.find(c => /emotion/i.test(c.key) || /emotion/i.test(c.name));
+  let defaults = [];
+  if (cat) {
+    // find entries in that category and use their titles as suggestions
+    defaults = entries.filter(e => e.category === cat.key).slice(0, 6).map(e => e.title);
+  } else {
+    // fallback: use first 6 entry titles
+    defaults = entries.slice(0, 6).map(e => e.title);
+  }
+
+  if (!defaults.length) {
+    document.getElementById('searchResults').hidden = true;
+    return;
+  }
+
+  document.getElementById('searchResults').hidden = false;
+  document.getElementById('searchResults').innerHTML = defaults.map(t => `<li>${t}</li>`).join('');
+
+  document.querySelectorAll('#searchResults li').forEach(li =>
+    li.addEventListener('click', () => openEntryByTitle(li.textContent))
+  );
+}
+
+function openEntryByTitle(title) {
+  const e = entries.find(x => x.title === title);
+  if (e) openEntry(e.id);
+}
+
 // Render categories into grid
 function renderCategories() {
   categoryGrid.innerHTML = "";
@@ -70,6 +100,9 @@ function renderCategories() {
     btn.addEventListener("click", () => showCategory(cat.key));
     categoryGrid.appendChild(btn);
   });
+
+  // show default suggestions after rendering categories
+  showDefaultSuggestions();
 }
 
 // Filter entries by category
@@ -83,7 +116,7 @@ function showCategory(catKey) {
 
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
-  if (!term) return clearSuggestions();
+  if (!term) return showDefaultSuggestions();
 
   const expanded = expandSynonyms(term);
   const matched = scoreMatches(expanded).slice(0, 6);
