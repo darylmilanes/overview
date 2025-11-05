@@ -151,7 +151,7 @@ html::-webkit-scrollbar, body::-webkit-scrollbar {
   display: block;
   margin-top: 6px;
   overflow: hidden;
-  height: 160px;        /* fixed height so box remains the same even for 1 item */
+  height: 200px;        /* fixed height so box remains the same even for 1 item */
   overflow-y: auto;     /* allow scrolling when content exceeds height */
   box-sizing: border-box; /* ensure padding doesn't change size */
   padding-right: 12px;   /* inset scrollbar away from rounded corners */
