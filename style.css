@@ -41,17 +41,26 @@ html, body {
   top: 0;
   background: var(--brand);
   border-bottom: none;
-  padding: 12px 16px;
+  padding: 18px 16px; /* reduced vertical padding */
+  min-height: 72px; /* reduced header height */
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative; /* allow absolute centering of brand */
 }
 
 .brand {
-  font-weight: 900;
-  font-size: 30px;
+  font-weight: 800;
+  font-size: 36px; /* slightly smaller brand text */
+  text-align: center;
   color: var(--soft);
   font-family: 'Georgia', serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%); /* vertically center the brand */
+  z-index: 2;
+  pointer-events: none;
 }
 
 .btn {
@@ -169,6 +178,12 @@ html, body {
   max-height: 90vh;
   overflow: hidden;
   box-shadow: var(--shadow);
+  /* translucent surface with blur */
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  -webkit-backdrop-filter: blur(12px) saturate(120%);
+  backdrop-filter: blur(12px) saturate(120%);
+  box-shadow: 0 10px 30px rgba(6, 24, 48, 0.12);
 }
 
 .entry::backdrop {
@@ -177,9 +192,17 @@ html, body {
 
 #entryContent {
   padding: 24px 24px 24px 24px;
-  padding-top: 28px; /* reduced top padding now that there's no close button */
+  padding-top: 40px; /* reduced top padding now that there's no close button */
   overflow-y: auto;
   max-height: calc(90vh - 48px);
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+#entryContent::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  background: transparent;
 }
 
 .entry h3 {
@@ -195,6 +218,11 @@ html, body {
   padding: 16px;
   border-radius: 12px;
   border: 1px solid #e7ecf2;
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  -webkit-backdrop-filter: blur(8px) saturate(110%);
+  backdrop-filter: blur(8px) saturate(110%);
+  box-shadow: 0 6px 18px rgba(6, 24, 48, 0.06);
 }
 
 .entry details {
@@ -250,3 +278,64 @@ html, body {
 .btn.store:hover {
   opacity: 0.95;
 }
+
+/* Dialog close button */
+.entry form[method="dialog"] {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+
+.entry .close {
+  background: #c00000d8;
+  color: #fafeff;
+  border: transparent;
+  font-size: 24px;
+  line-height: 1;
+  width: 25px;
+  height: 25px;
+  border-radius: 80px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-top: -30px;
+  margin-right: -4px;
+}
+
+/* Store chooser dialog tweaks */
+.store-dialog {
+  width: min(90vw, 420px);
+  padding: 18px 18px 24px;
+  border-radius: 14px;
+}
+
+#storeContent h3 {
+  margin-top: 6px;
+  margin-bottom: 8px;
+}
+
+.store-choices {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.store-choices .btn.store {
+  flex: 1;              /* equal width */
+  min-width: 140px;     /* prevent too small on narrow screens */
+  max-width: 220px;     /* avoid overly wide on large screens */
+  padding: 10px 14px;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* Fallback for browsers without backdrop-filter: increase opacity slightly */
+@supports not ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  .entry, .scripture, .grid button {
+    background: rgba(#fafeff,2);
+    border-color: rgba(#fafeff, 0.2);
+  }
+}
+
