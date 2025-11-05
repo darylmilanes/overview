@@ -5,7 +5,7 @@
     "title": "When You Are Blue",
     "tags": ["sad", "blue", "downcast", "heavy"],
     "scripture": [
-      "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance. (Psalm 42:5, KJV)"
+      "Why am I discouraged? Why is my heart so sad? I will put my hope in God! I will praise him again—my Savior and my God! (Psalm 42:5, NLT)"
     ],
     "context": "The psalmist is speaking to his own troubled soul, acknowledging sadness honestly rather than hiding it. This is not a quick fix but a gentle reminder that hope still exists even when the heart feels heavy.",
     "reflection": "Sadness does not mean faith is weak. You are allowed to feel low. God holds your hope for you until you are ready to lift it again.",
@@ -14,103 +14,103 @@
   },
 
   {
-    "id": "tempted-mt4",
-    "category": "spiritual",
-    "title": "When Tempted to Do Wrong",
-    "tags": ["temptation", "struggle", "weakness"],
-    "scripture": [
-      "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. (Matthew 4:1, KJV)",
-      "It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. (Matthew 4:4, KJV)"
-    ],
-    "context": "Jesus Himself faced temptation in a weary and lonely moment. Scripture shows that temptation is not a sign of failure; it is a human experience Jesus understands intimately.",
-    "reflection": "Temptation often feels strongest when we are tired or discouraged. Jesus shows that we do not face this battle alone. You are not abandoned in your struggle — God is present in the moment of decision.",
-    "prayer": "Lord, you know my weakness. Give me strength to choose what is good and true.",
-    "additional": ["1 Corinthians 10:13", "James 4:7", "Psalm 119:11"]
-  },
+  "id": "tempted-mt4",
+  "category": "spiritual",
+  "title": "When Tempted to Do Wrong",
+  "tags": ["temptation", "struggle", "weakness"],
+  "scripture": [
+    "Then Jesus was led by the Spirit into the wilderness to be tempted there by the devil. (Matthew 4:1, NLT)",
+    "But Jesus told him, “No! The Scriptures say, ‘People do not live by bread alone, but by every word that comes from the mouth of God.’” (Matthew 4:4, NLT)"
+  ],
+  "context": "Jesus faced temptation when He was physically weak and isolated. This shows that temptation does not mean failure — it is a shared human experience that Jesus understands deeply.",
+  "reflection": "Temptation often feels strongest when we are exhausted or discouraged. Jesus shows us that we are not fighting alone. God is near in the moment of temptation, offering strength and a way through.",
+  "prayer": "Lord, You know my weakness. Give me the strength to choose what is right and to honor You in my thoughts and actions.",
+  "additional": ["1 Corinthians 10:13", "James 4:7", "Psalm 119:11"]
+},
 
   {
-    "id": "danger-acts27",
-    "category": "emotions",
-    "title": "When You Face Physical Danger",
-    "tags": ["fear", "danger", "threat", "protection"],
-    "scripture": [
-      "Be of good cheer: for I believe God, that it shall be even as it was told me. (Acts 27:25, KJV)"
-    ],
-    "context": "Paul and those with him were caught in a violent storm at sea, fearing for their lives. In the chaos, God reassured Paul that He was still in control. Safety was not in the calm of the storm, but in the presence of God within it.",
-    "reflection": "When life feels dangerous or uncertain, fear rises quickly. Yet God does not abandon you in the storm. His protection is not distant — it is present, steady, and near.",
-    "prayer": "Lord, I am afraid. Keep me safe. Hold me through what I cannot control.",
-    "additional": ["Psalm 91:1-4", "Psalm 27:1", "Isaiah 41:10"]
-  },
+  "id": "danger-acts27",
+  "category": "wishes",
+  "title": "When You Face Physical Danger",
+  "tags": ["fear", "danger", "threat", "protection"],
+  "scripture": [
+    "\"So take courage! For I believe God. It will be just as he said.\" (Acts 27:25, NLT)"
+  ],
+  "context": "Paul and the sailors were caught in a violent storm that lasted for days. They had no control over the winds or waves. Yet God assured Paul that their lives were in His hands. The storm did not need to stop for God to be faithful. Safety came from trusting His presence, not the situation.",
+  "reflection": "Danger makes us feel powerless. Fear rises, and our minds imagine the worst. But God has not left you to face it alone. His presence is not shaken by chaos. Even when you cannot calm the storm around you, He can calm the storm within you.",
+  "prayer": "Lord, danger feels close and I feel small. Surround me with Your protection. Let Your presence be my peace when I cannot control what is happening around me.",
+  "additional": ["Psalm 91:1-4", "Psalm 27:1", "Isaiah 41:10"]
+},
 
-  {
-    "id": "bored-ps103",
-    "category": "emotions",
-    "title": "When You Are Bored",
-    "tags": ["numb", "dull", "disconnected"],
-    "scripture": [
-      "Bless the Lord, O my soul: and forget not all his benefits. (Psalm 103:2, KJV)"
-    ],
-    "context": "David reminds his soul to remember God’s goodness. Not because he feels it in the moment, but because memory awakens the heart when emotion falls quiet.",
-    "reflection": "Boredom can be a sign of inner tiredness or disconnection. Pause. Breathe. Let your heart remember something good, even something small. Sometimes peace looks plain — and that is okay.",
-    "prayer": "Lord, my heart feels dull. Wake me gently back to gratitude and wonder.",
-    "additional": ["Psalm 103:1-5", "Psalm 16:11", "Lamentations 3:22-23"]
-  },
+{
+  "id": "bored-ps103",
+  "category": "emotions",
+  "title": "When You Are Bored",
+  "tags": ["numb", "dull", "disconnected"],
+  "scripture": [
+    "Let all that I am praise the Lord; may I never forget the good things he does for me. (Psalm 103:2, NLT)"
+  ],
+  "context": "David speaks to his own soul, reminding himself of what is true even when he does not feel inspired or excited. Memory becomes an act of worship — calling to mind what God has done when the heart feels distant.",
+  "reflection": "Boredom isn’t always laziness — sometimes it's a sign that your heart needs gentle care. Instead of chasing stimulation, pause and remember something good God has done, however small. Gratitude can awaken joy like a slow sunrise.",
+  "prayer": "Lord, my heart feels tired and quiet. Restore my sense of wonder. Help me remember Your goodness until joy begins to rise again.",
+  "additional": ["Psalm 103:1-5", "Psalm 16:11", "Lamentations 3:22-23"]
+},
 
-  {
-    "id": "forgiveness-ps51",
-    "category": "spiritual",
-    "title": "When You Need Forgiveness",
-    "tags": ["sin", "guilt", "repentance", "mercy"],
-    "scripture": [
-      "Have mercy upon me, O God, according to thy lovingkindness... (Psalm 51:1, KJV)"
-    ],
-    "context": "David wrote this psalm after deep personal failure. He does not hide his sin — he brings it to God with honesty, trusting in God’s mercy rather than his own worth.",
-    "reflection": "God does not turn away from the brokenhearted or ashamed. He meets you not to condemn, but to restore. You are not beyond grace.",
-    "prayer": "Lord, I confess what I have done. Have mercy on me and restore my heart.",
-    "additional": ["1 John 1:9", "Isaiah 1:18", "Micah 7:18-19"]
-  },
+{
+  "id": "forgiveness-ps51",
+  "category": "spiritual",
+  "title": "When You Need Forgiveness",
+  "tags": ["sin", "guilt", "repentance", "mercy"],
+  "scripture": [
+    "Have mercy on me, O God, because of your unfailing love. (Psalm 51:1, NLT)"
+  ],
+  "context": "David wrote this after deep moral failure. He does not hide, excuse, or soften his sin. Instead, he turns fully toward God because he trusts God’s love more than his own ability to make things right.",
+  "reflection": "God does not reject you in your brokenness. He meets you there with mercy. Forgiveness is not earned by trying harder — it is received by coming honestly to the One who restores hearts.",
+  "prayer": "Lord, I bring my sin to You honestly. Wash my heart clean and restore what has been damaged in me. Thank You for mercy that does not run out.",
+  "additional": ["1 John 1:9", "Isaiah 1:18", "Micah 7:18-19"]
+},
 
-  {
-    "id": "nothing-ps37",
-    "category": "emotions",
-    "title": "When Nothing Seems to Be Going Right",
-    "tags": ["discouraged", "stuck", "frustrated"],
-    "scripture": [
-      "Trust in the Lord, and do good; so shalt thou dwell in the land, and verily thou shalt be fed. (Psalm 37:3, KJV)"
-    ],
-    "context": "This psalm encourages patience when life does not seem fair or manageable. God works quietly and steadily, even when change is not visible yet.",
-    "reflection": "You do not need to solve everything right now. Take one small step of faith. God is at work in ways you cannot yet see.",
-    "prayer": "Lord, I am frustrated and tired. Help me trust that You are still working.",
-    "additional": ["Romans 8:28", "Galatians 6:9", "Psalm 46:10"]
-  },
+{
+  "id": "nothing-ps37",
+  "category": "emotions",
+  "title": "When Nothing Seems to Be Going Right",
+  "tags": ["discouraged", "stuck", "frustrated"],
+  "scripture": [
+    "Trust in the Lord and do good. Then you will live safely in the land and prosper. (Psalm 37:3, NLT)"
+  ],
+  "context": "This psalm encourages patience when life feels stalled or heavy. God’s work is often slow and quiet, developing roots beneath the surface long before visible change arrives.",
+  "reflection": "You don’t have to fix everything right now. Take one faithful step at a time. Even in delay and frustration, God is working in ways you cannot yet see. Progress begins with trust.",
+  "prayer": "Lord, I feel stuck and discouraged. Strengthen my heart to keep trusting You, even when results are not visible.",
+  "additional": ["Romans 8:28", "Galatians 6:9", "Psalm 46:10"]
+},
 
-  {
-    "id": "worry-ps37-need",
-    "category": "emotions",
-    "title": "When You Worry About Having Enough",
-    "tags": ["fear", "provision", "uncertainty"],
-    "scripture": [
-      "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread. (Psalm 37:25, KJV)"
-    ],
-    "context": "David reflects on a lifetime of watching God sustain those who trust Him. Provision is not always early — but it is faithful.",
-    "reflection": "Worry comes quickly when resources look small. But God has not forgotten you. He knows what you need. He has cared for you before, and He will again.",
-    "prayer": "Lord, my needs feel heavy to carry. Please provide in the way only You can.",
-    "additional": ["Matthew 6:31-34", "Philippians 4:19", "Psalm 121:1-2"]
-  },
+{
+  "id": "worry-ps37-need",
+  "category": "emotions",
+  "title": "When You Worry About Having Enough",
+  "tags": ["fear", "provision", "uncertainty"],
+  "scripture": [
+    "Once I was young, and now I am old. Yet I have never seen the godly abandoned or their children begging for bread. (Psalm 37:25, NLT)"
+  ],
+  "context": "David reflects on a lifetime of watching God provide. God’s provision is not always early, but it is always faithful. He has a history of caring for His people.",
+  "reflection": "Worry grows when we feel like we must provide for ourselves alone. But God knows your needs. He has not forgotten you. The same God who has cared for you before will care for you again.",
+  "prayer": "Lord, I feel the weight of my needs. Help me trust Your timing, Your care, and Your faithfulness.",
+  "additional": ["Matthew 6:31-34", "Philippians 4:19", "Psalm 121:1-2"]
+},
 
-  {
-    "id": "afraid-ps27",
-    "category": "emotions",
-    "title": "When You Are Afraid",
-    "tags": ["fear", "afraid", "uncertain"],
-    "scripture": [
-      "The Lord is my light and my salvation; whom shall I fear? (Psalm 27:1, KJV)"
-    ],
-    "context": "David writes this psalm while facing threats and uncertainty. His courage does not come from the absence of fear, but from remembering who stands with him.",
-    "reflection": "Fear does not mean you lack faith. It simply means your heart is looking for safety. God does not shame you for being afraid—He meets you there and holds you steady.",
-    "prayer": "Lord, I am afraid. Be my light when I feel surrounded and unsure.",
-    "additional": ["Isaiah 41:10", "Psalm 56:3", "John 14:27"]
-  },
+{
+  "id": "afraid-ps27",
+  "category": "emotions",
+  "title": "When You Are Afraid",
+  "tags": ["fear", "afraid", "uncertain"],
+  "scripture": [
+    "The Lord is my light and my salvation—so why should I be afraid? (Psalm 27:1, NLT)"
+  ],
+  "context": "David wrote this while facing real danger. His courage did not come from being fearless, but from remembering that God was with him and would not let him stand alone.",
+  "reflection": "Fear is not failure. It is a signal that your heart longs for safety. God meets you in that fear — not to shame you, but to steady you.",
+  "prayer": "Lord, fear feels close. Be my strength. Be my peace. Stay near to me and help me rest in Your presence.",
+  "additional": ["Isaiah 41:10", "Psalm 56:3", "John 14:27"]
+},
 
   {
     "id": "anxious-lovedones-ps107",
