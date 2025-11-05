@@ -73,12 +73,6 @@ html, body {
   border: 1px solid #cfd6dd;
 }
 
-.btn.install {
-  background: var(--brand);
-  color: white;
-  border: none;
-}
-
 /* Layout */
 .container {
   padding: 20px 16px 88px; /* increased bottom padding to account for fixed footer */
@@ -329,6 +323,29 @@ html, body {
   padding: 10px 14px;
   font-weight: 700;
   text-align: center;
+}
+
+/* Disable click/tap animations and highlights on interactive elements */
+button, .btn, .grid button, .suggestions li, #searchResults li, .store-choices .btn.store {
+  -webkit-tap-highlight-color: transparent; /* iOS tap flash */
+  -webkit-user-select: none;
+  user-select: none;
+  transition: none !important; /* remove transition-based animations */
+}
+
+button:active, .btn:active, .grid button:active, .suggestions li:active, #searchResults li:active, .store-choices .btn.store:active {
+  transform: none !important;
+  background-color: inherit !important;
+  box-shadow: none !important;
+}
+
+/* Keep keyboard focus visible for accessibility */
+:focus {
+  outline: none;
+}
+:focus-visible {
+  outline: 2px solid rgba(0,64,128,0.15);
+  outline-offset: 2px;
 }
 
 /* Fallback for browsers without backdrop-filter: increase opacity slightly */
